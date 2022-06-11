@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Shorif Uddin,
+👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
-<!--
-**shorifuddin/shorifuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profile views
 
-Here are some ideas to get you started:
+I’m a Front End Web developer who is passionate about making error-free websites with 100% satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time I work with PHP & framework Laravel or HTML ,CSS ,SASS ,jQuery & WordPress also  .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  PHP / Laravel / MYSQL / HTML / CSS / SASS / WordPress
+
+- 🔭 I’m currently working on E-Commerce Website 
+- 🌱 I’m currently learning Laravel Advance 
+- 📫 How to reach me: mcshorif@gmail.com 
+
+
+
+
