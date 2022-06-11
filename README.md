@@ -8,12 +8,11 @@
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time I work with PHP & framework Laravel or HTML ,CSS ,SASS ,jQuery & WordPress also  .
 
-👨‍💻 Skills & Experiance:<br><br><br>
+👨‍💻 Skills & Experiance:<br>
 ✅ PHP <br>
 ✅ Laravel <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ WordPress <br><br>
-
 
 - 🔭 I’m currently working on E-Commerce Website 
 - 🌱 I’m currently learning Laravel Advance 
