@@ -2,8 +2,8 @@
 <br>
 👑 I am Web Developer<br>
 🖊️ Love to write code<br>
-🎤 Like to share my knowledge<br>
-<br><br>
+🎤 Like to share my knowledge<br><br>
+
 ![Profile views](https://gpvc.arturio.dev/shorifuddin)  
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time I work with PHP & framework Laravel or HTML ,CSS ,SASS ,jQuery & WordPress also  .
