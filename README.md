@@ -11,6 +11,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 👨‍💻 Skills & Experiance:<br>
 ✅ PHP <br>
 ✅ Laravel <br>
+✅ Vue-JS <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ WordPress <br><br>
 
