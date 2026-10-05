@@ -40,8 +40,6 @@
 - 📄 **Comparative Study of LLMs and Transformers for Bangla Healthcare Paraphrasing** — IEEE ICCIT 2025 · [IEEE Xplore](https://ieeexplore.ieee.org/document/11491404)
 - 📊 **BIDWESH** — Bangla hate-speech detection dataset · [arXiv:2507.16183](https://arxiv.org/abs/2507.16183)
 
----
-
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shorifuddin&color=6366f1&style=flat" />
 </p> -->
