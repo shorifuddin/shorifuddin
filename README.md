@@ -42,8 +42,8 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shorifuddin&color=6366f1&style=flat" />
-</p>
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%"/>
