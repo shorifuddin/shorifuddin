@@ -1,20 +1,17 @@
-### Hi, I'm Shorif Uddin,
-<br>
-👑 I am Web Developer<br>
-🖊️ Love to write code<br>
-🎤 Like to share my knowledge<br><br>
+# Md. Shorif Uddin
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time I work with PHP & framework Laravel or HTML ,CSS ,SASS ,jQuery & WordPress also  .
+### Software Engineer — Laravel · React Native · TypeScript · React.js · Vue.js
 
-👨‍💻 Skills & Experiance:<br>
-✅ PHP <br>
-✅ Laravel <br>
-✅ Vue-JS <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ WordPress <br><br>
+Software Engineer from Dhaka, Bangladesh with 4+ years of experience building production systems — large-scale ERP, cloud HR & Payroll SaaS, and mobile apps on Google Play. Published AI/NLP researcher. Open to remote engineering roles.
 
-- 🔭 I’m currently working on E-Commerce Website 
-- 🌱 I’m currently learning Laravel Advance 
-- 📫 How to reach me: mcshorif@gmail.com 
+🌐 **Portfolio:** https://mdshorifuddin.vercel.app
+💼 **LinkedIn:** https://www.linkedin.com/in/mrshorifuddin/
+🐦 **X:** https://x.com/mrshorifuddin
 
+**Research**
+- "Comparative Study of LLMs and Transformers for Bangla Healthcare Paraphrasing" — IEEE ICCIT 2025 ([IEEE Xplore](https://ieeexplore.ieee.org/document/11491404))
+- BIDWESH — Bangla hate-speech detection dataset ([arXiv:2507.16183](https://arxiv.org/abs/2507.16183))
 
+**Stack** · PHP (Laravel) · React Native · React.js · TypeScript · Vue.js · PostgreSQL · MySQL · REST APIs · WebSockets
+
+📫 shorifcoder@gmail.com
