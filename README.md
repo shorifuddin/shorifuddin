@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=818CF8&center=true&vCenter=true&width=800&lines=Software+Engineer;Laravel+%E2%80%A2+React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Vue.js;I+build+ERP%2C+SaaS+%26+mobile+apps;Open+to+remote+opportunities" alt="Typing SVG" /></a>
 </p>
 
-
 <p align="center">
   <a href="https://mdshorifuddin.vercel.app">🌐 Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/mrshorifuddin/">💼 LinkedIn</a> &nbsp;•&nbsp;
@@ -32,16 +31,36 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shorifuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shorifuddin&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shorifuddin&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/shorifuddin/mdshorifuddin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shorifuddin&repo=mdshorifuddin&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/shorifuddin/shorif-uddin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shorifuddin&repo=shorif-uddin&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ### 🔬 Research
 
 - 📄 **Comparative Study of LLMs and Transformers for Bangla Healthcare Paraphrasing** — IEEE ICCIT 2025 · [IEEE Xplore](https://ieeexplore.ieee.org/document/11491404)
 - 📊 **BIDWESH** — Bangla hate-speech detection dataset · [arXiv:2507.16183](https://arxiv.org/abs/2507.16183)
 
-<!-- <p align="center">
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shorifuddin&color=6366f1&style=flat" />
-</p> -->
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%"/>
