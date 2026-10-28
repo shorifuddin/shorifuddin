@@ -17,6 +17,7 @@
 - 🌱 Research interests: **LLMs & NLP** — published IEEE ICCIT 2025 paper on Bangla healthcare paraphrasing
 - 📊 Creator of **BIDWESH** — Bangla hate-speech detection dataset
 - 📫 Reach me: **shorifcoder@gmail.com**
+- 🏴󐁧󐁢󐁷󐁬󐁳󐁿 Open to remote roles with software companies in Wales and across the UK
 - ⚡ I turn complex business problems into clean, fast software
 
 ### 🛠️ Tech Stack
